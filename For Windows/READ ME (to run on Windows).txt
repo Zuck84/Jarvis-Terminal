@@ -1,0 +1,15 @@
+How to start this program on Windows
+
+1- Move the file jarvis.py on the Desktop
+
+2- Download python 3 on: https://www.python.org/downloads/ (click on the yellow button)
+
+3- Open a basic (=terminal dos or cmd)
+
+4- Type the command "cd Desktop"
+
+5- Now type: "py jarvis.py"
+
+6- You can now use it ;) ! Type "commands" to have the lists of the commands and their task(s)
+
+7- Don't forget: this is an open-source program, you can access to the code & modify it.

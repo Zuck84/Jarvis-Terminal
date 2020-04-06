@@ -1,0 +1,13 @@
+How to start this program on Linux
+
+1- Move the file jarvis.py on the Desktop
+
+2- Open a basic (=terminal bash)
+
+3- Type the command "cd Desktop" or if your PC is in another language type cd + "Desktop" in your language (cd Bureau in French for example)
+
+4- Now type: "python3 jarvis.py"
+
+6- You can now use it ;) ! Type "commands" to have the lists of the commands and their task(s)
+
+7- Don't forget: this is an open-source program, you can access to the code & modify it.
